@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: To_Be_Changed_UUID
+  m_EditorClassIdentifier: 
+  m_GroupName: To_Be_Changed_UUID
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3c5f85afe0bc22240947f38da1e7e003
+  m_SerializeEntries:
+  - m_GUID: 7569c8743a8e0844ea4ff539fd674512
+    m_Address: To_Be_Changed_UUID
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - scene
+    m_MainAsset: {fileID: 102900000, guid: 7569c8743a8e0844ea4ff539fd674512, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 7569c8743a8e0844ea4ff539fd674512, type: 3}
+  - m_GUID: 3c47e495ed8b1462099b3bb0db55d1f5
+    m_Address: VRG_Core
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - essentials
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cfd7bfa82e216472789757c6812f2227
+    m_Address: LoadingScreen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - scene
+    m_MainAsset: {fileID: 102900000, guid: cfd7bfa82e216472789757c6812f2227, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: cfd7bfa82e216472789757c6812f2227, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 540cc8976ef7fbe4a9d2df420eb21c74, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b91b990d44791f7498d5aee14d3e53ca, type: 2}
+    - {fileID: 11400000, guid: 997b56e6d33e57e49bb5f612d5053c25, type: 2}
